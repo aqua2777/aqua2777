@@ -27,6 +27,4 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 # Codewars
-[Profile link](https://www.codewars.com/users/aqua6858)
-
 ![Codewars](https://www.codewars.com/users/aqua6858/badges/large)
