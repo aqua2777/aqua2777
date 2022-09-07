@@ -26,5 +26,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-# Codewars
+# Programming problems
 ![Codewars](https://www.codewars.com/users/aqua6858/badges/large)
+I enjoy to solving programming problems.
+Here are the links
+[Codewars](https://www.codewars.com/users/aqua6858)
+[LeetCode](https://leetcode.com/aqua_6858/)
