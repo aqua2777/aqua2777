@@ -30,7 +30,7 @@
 ![Codewars](https://www.codewars.com/users/aqua6858/badges/large)
 
 I enjoy to solving programming problems.
-Here are the links
+Here are the links to sites with tasks.
 
 [Codewars](https://www.codewars.com/users/aqua6858)
 
