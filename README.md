@@ -33,5 +33,3 @@ I enjoy to solving programming problems.
 Here are the links to sites with tasks.
 
 [Codewars](https://www.codewars.com/users/ruslannkot)
-
-[LeetCode](https://leetcode.com/aqua_6858/)
