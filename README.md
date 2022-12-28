@@ -32,4 +32,5 @@
 I enjoy to solving programming problems.
 Here are the links to sites with tasks.
 
-[Codewars](https://www.codewars.com/users/ruslannkot) [Leetcode](https://leetcode.com/aqua_6858)
+[Codewars](https://www.codewars.com/users/ruslannkot)
+[Leetcode](https://leetcode.com/aqua_6858)
