@@ -34,4 +34,4 @@ Here are the links to sites with tasks.
 
 [Codewars](https://www.codewars.com/users/aqua2777)
 
-[Leetcode](https://leetcode.com/aqua_6858)
+[Leetcode](https://leetcode.com/aqua2777)
