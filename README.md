@@ -28,7 +28,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 # Programming problems
-![Codewars](https://www.codewars.com/users/aqua2777/badges/large)
+[![Codewars](https://www.codewars.com/users/aqua2777/badges/large)](https://www.codewars.com/users/aqua2777)
 
 I enjoy to solving programming problems.
 Here are the links to sites with tasks.
