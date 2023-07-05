@@ -34,5 +34,4 @@ I enjoy to solving programming problems.
 Here are the links to sites with tasks.
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/aqua2777)
-
-[Leetcode](https://leetcode.com/aqua2777)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/aqua2777)
